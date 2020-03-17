@@ -25,3 +25,14 @@ I am sure that participating in this training course will help me structure my k
 - Positive thinking
 - Negotiation experience
 - Team player
+
+#### Education
+- Theoretical courses HTML, CSS, JavaScript
+- Udemy courses: HTML, CSS, JavaScript, Bootstrap, Responsive design, Algorithms in JS, Angular
+- Workshops: Building your own UI component library using SASS / SCSS, Angular.
+  
+#### Languages
+- English B2
+- Polish B2
+- Russian native
+- Ukrainian native
